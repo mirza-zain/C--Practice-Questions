@@ -1,0 +1,8 @@
+D:\lab manuals\lab_3D\bin\Debug\lab_3D.exe.config
+D:\lab manuals\lab_3D\bin\Debug\lab_3D.exe
+D:\lab manuals\lab_3D\bin\Debug\lab_3D.pdb
+D:\lab manuals\lab_3D\obj\Debug\lab_3D.csproj.AssemblyReference.cache
+D:\lab manuals\lab_3D\obj\Debug\lab_3D.csproj.SuggestedBindingRedirects.cache
+D:\lab manuals\lab_3D\obj\Debug\lab_3D.csproj.CoreCompileInputs.cache
+D:\lab manuals\lab_3D\obj\Debug\lab_3D.exe
+D:\lab manuals\lab_3D\obj\Debug\lab_3D.pdb

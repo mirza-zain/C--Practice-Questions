@@ -1,0 +1,13 @@
+D:\lab manuals\lab_13\bin\Debug\Practice.mdf
+D:\lab manuals\lab_13\bin\Debug\Practice_log.ldf
+D:\lab manuals\lab_13\bin\Debug\lab_13.exe.config
+D:\lab manuals\lab_13\bin\Debug\lab_13.exe
+D:\lab manuals\lab_13\bin\Debug\lab_13.pdb
+D:\lab manuals\lab_13\obj\Debug\lab_13.csproj.AssemblyReference.cache
+D:\lab manuals\lab_13\obj\Debug\lab_13.csproj.SuggestedBindingRedirects.cache
+D:\lab manuals\lab_13\obj\Debug\lab_13.Form1.resources
+D:\lab manuals\lab_13\obj\Debug\lab_13.Properties.Resources.resources
+D:\lab manuals\lab_13\obj\Debug\lab_13.csproj.GenerateResource.cache
+D:\lab manuals\lab_13\obj\Debug\lab_13.csproj.CoreCompileInputs.cache
+D:\lab manuals\lab_13\obj\Debug\lab_13.exe
+D:\lab manuals\lab_13\obj\Debug\lab_13.pdb

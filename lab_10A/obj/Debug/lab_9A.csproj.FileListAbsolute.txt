@@ -1,0 +1,16 @@
+D:\lab manuals\lab_9A\bin\Debug\lab_9A.exe.config
+D:\lab manuals\lab_9A\bin\Debug\lab_9A.exe
+D:\lab manuals\lab_9A\bin\Debug\lab_9A.pdb
+D:\lab manuals\lab_9A\obj\Debug\lab_9A.csproj.AssemblyReference.cache
+D:\lab manuals\lab_9A\obj\Debug\lab_9A.csproj.SuggestedBindingRedirects.cache
+D:\lab manuals\lab_9A\obj\Debug\lab_9A.csproj.CoreCompileInputs.cache
+D:\lab manuals\lab_9A\obj\Debug\lab_9A.exe
+D:\lab manuals\lab_9A\obj\Debug\lab_9A.pdb
+D:\lab manuals\lab_10A\bin\Debug\lab_9A.exe.config
+D:\lab manuals\lab_10A\bin\Debug\lab_9A.exe
+D:\lab manuals\lab_10A\bin\Debug\lab_9A.pdb
+D:\lab manuals\lab_10A\obj\Debug\lab_9A.csproj.AssemblyReference.cache
+D:\lab manuals\lab_10A\obj\Debug\lab_9A.csproj.SuggestedBindingRedirects.cache
+D:\lab manuals\lab_10A\obj\Debug\lab_9A.csproj.CoreCompileInputs.cache
+D:\lab manuals\lab_10A\obj\Debug\lab_9A.exe
+D:\lab manuals\lab_10A\obj\Debug\lab_9A.pdb

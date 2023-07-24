@@ -1,0 +1,8 @@
+D:\lab manuals\lab_10E\bin\Debug\lab_10E.exe.config
+D:\lab manuals\lab_10E\bin\Debug\lab_10E.exe
+D:\lab manuals\lab_10E\bin\Debug\lab_10E.pdb
+D:\lab manuals\lab_10E\obj\Debug\lab_10E.csproj.AssemblyReference.cache
+D:\lab manuals\lab_10E\obj\Debug\lab_10E.csproj.SuggestedBindingRedirects.cache
+D:\lab manuals\lab_10E\obj\Debug\lab_10E.csproj.CoreCompileInputs.cache
+D:\lab manuals\lab_10E\obj\Debug\lab_10E.exe
+D:\lab manuals\lab_10E\obj\Debug\lab_10E.pdb

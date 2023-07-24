@@ -1,0 +1,12 @@
+D:\lab manuals\lab_12\bin\Debug\lab_12.exe.config
+D:\lab manuals\lab_12\bin\Debug\lab_12.exe
+D:\lab manuals\lab_12\bin\Debug\lab_12.pdb
+D:\lab manuals\lab_12\obj\Debug\lab_12.csproj.AssemblyReference.cache
+D:\lab manuals\lab_12\obj\Debug\lab_12.csproj.SuggestedBindingRedirects.cache
+D:\lab manuals\lab_12\obj\Debug\lab_12.Loginfrm.resources
+D:\lab manuals\lab_12\obj\Debug\lab_12.Registerfrm.resources
+D:\lab manuals\lab_12\obj\Debug\lab_12.Properties.Resources.resources
+D:\lab manuals\lab_12\obj\Debug\lab_12.csproj.GenerateResource.cache
+D:\lab manuals\lab_12\obj\Debug\lab_12.csproj.CoreCompileInputs.cache
+D:\lab manuals\lab_12\obj\Debug\lab_12.exe
+D:\lab manuals\lab_12\obj\Debug\lab_12.pdb

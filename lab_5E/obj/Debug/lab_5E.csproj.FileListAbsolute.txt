@@ -1,0 +1,8 @@
+D:\lab manuals\lab_5E\bin\Debug\lab_5E.exe.config
+D:\lab manuals\lab_5E\bin\Debug\lab_5E.exe
+D:\lab manuals\lab_5E\bin\Debug\lab_5E.pdb
+D:\lab manuals\lab_5E\obj\Debug\lab_5E.csproj.AssemblyReference.cache
+D:\lab manuals\lab_5E\obj\Debug\lab_5E.csproj.SuggestedBindingRedirects.cache
+D:\lab manuals\lab_5E\obj\Debug\lab_5E.csproj.CoreCompileInputs.cache
+D:\lab manuals\lab_5E\obj\Debug\lab_5E.exe
+D:\lab manuals\lab_5E\obj\Debug\lab_5E.pdb

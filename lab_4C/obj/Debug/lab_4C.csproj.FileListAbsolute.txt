@@ -1,0 +1,8 @@
+D:\lab manuals\lab_4C\bin\Debug\lab_4C.exe.config
+D:\lab manuals\lab_4C\bin\Debug\lab_4C.exe
+D:\lab manuals\lab_4C\bin\Debug\lab_4C.pdb
+D:\lab manuals\lab_4C\obj\Debug\lab_4C.csproj.AssemblyReference.cache
+D:\lab manuals\lab_4C\obj\Debug\lab_4C.csproj.SuggestedBindingRedirects.cache
+D:\lab manuals\lab_4C\obj\Debug\lab_4C.csproj.CoreCompileInputs.cache
+D:\lab manuals\lab_4C\obj\Debug\lab_4C.exe
+D:\lab manuals\lab_4C\obj\Debug\lab_4C.pdb

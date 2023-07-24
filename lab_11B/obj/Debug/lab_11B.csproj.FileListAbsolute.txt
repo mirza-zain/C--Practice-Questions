@@ -1,0 +1,11 @@
+D:\lab manuals\lab_11B\bin\Debug\lab_11B.exe.config
+D:\lab manuals\lab_11B\bin\Debug\lab_11B.exe
+D:\lab manuals\lab_11B\bin\Debug\lab_11B.pdb
+D:\lab manuals\lab_11B\obj\Debug\lab_11B.csproj.AssemblyReference.cache
+D:\lab manuals\lab_11B\obj\Debug\lab_11B.csproj.SuggestedBindingRedirects.cache
+D:\lab manuals\lab_11B\obj\Debug\lab_11B.Form1.resources
+D:\lab manuals\lab_11B\obj\Debug\lab_11B.Properties.Resources.resources
+D:\lab manuals\lab_11B\obj\Debug\lab_11B.csproj.GenerateResource.cache
+D:\lab manuals\lab_11B\obj\Debug\lab_11B.csproj.CoreCompileInputs.cache
+D:\lab manuals\lab_11B\obj\Debug\lab_11B.exe
+D:\lab manuals\lab_11B\obj\Debug\lab_11B.pdb

@@ -1,0 +1,8 @@
+D:\lab manuals\lab_6C\bin\Debug\lab_6C.exe.config
+D:\lab manuals\lab_6C\bin\Debug\lab_6C.exe
+D:\lab manuals\lab_6C\bin\Debug\lab_6C.pdb
+D:\lab manuals\lab_6C\obj\Debug\lab_6C.csproj.AssemblyReference.cache
+D:\lab manuals\lab_6C\obj\Debug\lab_6C.csproj.SuggestedBindingRedirects.cache
+D:\lab manuals\lab_6C\obj\Debug\lab_6C.csproj.CoreCompileInputs.cache
+D:\lab manuals\lab_6C\obj\Debug\lab_6C.exe
+D:\lab manuals\lab_6C\obj\Debug\lab_6C.pdb

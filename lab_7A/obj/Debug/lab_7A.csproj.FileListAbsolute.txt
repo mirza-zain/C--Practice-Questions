@@ -1,0 +1,8 @@
+D:\lab manuals\lab_7A\bin\Debug\lab_7A.exe.config
+D:\lab manuals\lab_7A\bin\Debug\lab_7A.exe
+D:\lab manuals\lab_7A\bin\Debug\lab_7A.pdb
+D:\lab manuals\lab_7A\obj\Debug\lab_7A.csproj.AssemblyReference.cache
+D:\lab manuals\lab_7A\obj\Debug\lab_7A.csproj.SuggestedBindingRedirects.cache
+D:\lab manuals\lab_7A\obj\Debug\lab_7A.csproj.CoreCompileInputs.cache
+D:\lab manuals\lab_7A\obj\Debug\lab_7A.exe
+D:\lab manuals\lab_7A\obj\Debug\lab_7A.pdb
